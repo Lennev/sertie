@@ -1,0 +1,4 @@
+C:\Projects - Local\sertie\sertie\sertie\bin\Debug\sertie.dll
+C:\Projects - Local\sertie\sertie\sertie\bin\Debug\sertie.pdb
+C:\Projects - Local\sertie\sertie\sertie\obj\Debug\sertie.dll
+C:\Projects - Local\sertie\sertie\sertie\obj\Debug\sertie.pdb
