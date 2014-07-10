@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sertie", "Sertie\Sertie.csproj", "{D941DFE8-9FC6-4EBA-8E4A-B7C047518F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sertie.Android", "Android\Sertie.Android.csproj", "{88057363-3713-4E02-9BEF-114DA1AF1993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88057363-3713-4E02-9BEF-114DA1AF1993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88057363-3713-4E02-9BEF-114DA1AF1993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88057363-3713-4E02-9BEF-114DA1AF1993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88057363-3713-4E02-9BEF-114DA1AF1993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D941DFE8-9FC6-4EBA-8E4A-B7C047518F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D941DFE8-9FC6-4EBA-8E4A-B7C047518F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D941DFE8-9FC6-4EBA-8E4A-B7C047518F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D941DFE8-9FC6-4EBA-8E4A-B7C047518F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Sertie\Sertie.csproj
+	EndGlobalSection
+EndGlobal
