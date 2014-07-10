@@ -1,5 +1,0 @@
-C:\Projects - Local\sertie\Sertie\Sertie.Core\bin\Debug\Sertie.Core.dll
-C:\Projects - Local\sertie\Sertie\Sertie.Core\bin\Debug\Sertie.Core.pdb
-C:\Projects - Local\sertie\Sertie\Sertie.Core\obj\Debug\Sertie.Core.csprojResolveAssemblyReference.cache
-C:\Projects - Local\sertie\Sertie\Sertie.Core\obj\Debug\Sertie.Core.dll
-C:\Projects - Local\sertie\Sertie\Sertie.Core\obj\Debug\Sertie.Core.pdb
