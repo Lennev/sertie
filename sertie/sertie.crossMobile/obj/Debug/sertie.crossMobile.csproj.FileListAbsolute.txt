@@ -1,9 +1,0 @@
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\bin\Debug\sertie.crossMobile.dll
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\bin\Debug\sertie.crossMobile.pdb
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\bin\Debug\Xamarin.Forms.Core.dll
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\bin\Debug\Xamarin.Forms.Core.xml
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\obj\Debug\sertie.crossMobile.csprojResolveAssemblyReference.cache
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\obj\Debug\sertie.crossMobile.dll
-C:\Projects - Local\sertie\sertie\sertie.crossMobile\obj\Debug\sertie.crossMobile.pdb
