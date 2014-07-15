@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
 using Xamarin.Forms;
 
 namespace Sertie.core
@@ -15,7 +14,7 @@ namespace Sertie.core
             {
                 Content = new Label
                 {
-                    Text = "Hello, Forms !",
+                    Text = "Hello Olga !",
                     VerticalOptions = LayoutOptions.CenterAndExpand,
                     HorizontalOptions = LayoutOptions.CenterAndExpand,
                 },

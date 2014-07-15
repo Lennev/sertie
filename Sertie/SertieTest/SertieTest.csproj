@@ -62,6 +62,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sertie.core\Sertie.core\Sertie.core.csproj">
+      <Project>{87946249-c85e-49f1-a8c1-664e8dfbf4bf}</Project>
+      <Name>Sertie.core</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
