@@ -1,0 +1,12 @@
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\FormsTemplateiOS.exe
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\FormsTemplateiOS.pdb
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\Sertie.core.dll
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\Sertie.core.pdb
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\obj\iPhone\Debug\Sertie.core.iOS.csprojResolveAssemblyReference.cache
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\obj\iPhone\Debug\FormsTemplateiOS.exe
+C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.iOS\obj\iPhone\Debug\FormsTemplateiOS.pdb
