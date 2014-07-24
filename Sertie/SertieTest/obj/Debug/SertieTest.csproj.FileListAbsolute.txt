@@ -5,3 +5,7 @@ C:\Projects - Local\sertie\Sertie\SertieTest\bin\Debug\nunit.framework.xml
 C:\Projects - Local\sertie\Sertie\SertieTest\obj\Debug\SertieTest.csprojResolveAssemblyReference.cache
 C:\Projects - Local\sertie\Sertie\SertieTest\obj\Debug\SertieTest.dll
 C:\Projects - Local\sertie\Sertie\SertieTest\obj\Debug\SertieTest.pdb
+C:\Projects - Local\sertie\Sertie\SertieTest\bin\Debug\Sertie.core.dll
+C:\Projects - Local\sertie\Sertie\SertieTest\bin\Debug\Xamarin.Forms.Core.dll
+C:\Projects - Local\sertie\Sertie\SertieTest\bin\Debug\Sertie.core.pdb
+C:\Projects - Local\sertie\Sertie\SertieTest\bin\Debug\Xamarin.Forms.Core.xml
