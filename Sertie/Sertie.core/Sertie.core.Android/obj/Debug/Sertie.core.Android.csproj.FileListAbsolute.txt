@@ -19,4 +19,3 @@ C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.Android\obj\Debug\andr
 C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.Android\obj\Debug\res\drawable\icon.png
 C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.Android\obj\Debug\R.cs.flag
 C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.Android\obj\Debug\uploadflags.txt
-C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core.Android\obj\Debug\res\layout\createquestionview.xml

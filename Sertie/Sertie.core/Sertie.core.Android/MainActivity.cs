@@ -17,14 +17,14 @@ namespace Sertie.core.Droid
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            SetContentView(Resource.Layout.CreateQuestionView);
+            //SetContentView(Resource.Layout.CreateQuestionView);
 
 
 
 
-            //Xamarin.Forms.Forms.Init(this, bundle);
+            Xamarin.Forms.Forms.Init(this, bundle);
 
-            //SetPage(App.GetMainPage());
+            SetPage(App.GetMainPage());
         }
     }
 }

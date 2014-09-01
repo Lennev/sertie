@@ -10,15 +10,16 @@ namespace Sertie.core
     {
         public static Page GetMainPage()
         {
-            return new ContentPage
-            {
-                Content = new Label
-                {
-                    Text = "Hello Olga !",
-                    VerticalOptions = LayoutOptions.CenterAndExpand,
-                    HorizontalOptions = LayoutOptions.CenterAndExpand,
-                },
-            };
+            return new CreateQuestionPage();
+            //return new ContentPage
+            //{
+            //    Content = new Label
+            //    {
+            //        Text = "Hello Olga !",
+            //        VerticalOptions = LayoutOptions.CenterAndExpand,
+            //        HorizontalOptions = LayoutOptions.CenterAndExpand,
+            //    },
+            //};
         }
     }
 }

@@ -14,17 +14,7 @@ public final class R {
         public static final int icon=0x7f020000;
         public static final int monoandroidsplash=0x7f020001;
     }
-    public static final class id {
-        public static final int checkBox1=0x7f050004;
-        public static final int checkedTextView1=0x7f050003;
-        public static final int editText1=0x7f050002;
-        public static final int relativeLayout1=0x7f050000;
-        public static final int textView1=0x7f050001;
-    }
-    public static final class layout {
-        public static final int createquestionview=0x7f030000;
-    }
     public static final class style {
-        public static final int Mono_Android_Theme_Splash=0x7f040000;
+        public static final int Mono_Android_Theme_Splash=0x7f030000;
     }
 }
