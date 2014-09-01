@@ -9,3 +9,14 @@ C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core\obj\Debug\Sertie.core.
 C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core\obj\Debug\Sertie.core.pdb
 C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\nunit.framework.dll
 C:\Projects - Local\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\nunit.framework.xml
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\Sertie.core.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\Sertie.core.pdb
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\nunit.framework.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\nunit.framework.xml
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\obj\Debug\Sertie.core.csprojResolveAssemblyReference.cache
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\obj\Debug\Sertie.core.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\obj\Debug\Sertie.core.pdb

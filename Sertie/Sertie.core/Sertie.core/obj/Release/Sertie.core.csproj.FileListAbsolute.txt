@@ -1,0 +1,10 @@
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\Sertie.core.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\Sertie.core.pdb
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\nunit.framework.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\nunit.framework.xml
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\obj\Release\Sertie.core.dll
+C:\Users\ovo\Documents\Projects\Xamarin\sertie\Sertie\Sertie.core\Sertie.core\obj\Release\Sertie.core.pdb

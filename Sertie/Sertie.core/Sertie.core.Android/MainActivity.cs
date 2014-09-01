@@ -18,6 +18,10 @@ namespace Sertie.core.Droid
         {
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.CreateQuestionView);
+
+
+
+
             //Xamarin.Forms.Forms.Init(this, bundle);
 
             //SetPage(App.GetMainPage());
